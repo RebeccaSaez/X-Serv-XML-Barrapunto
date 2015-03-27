@@ -44,7 +44,7 @@ class CounterHandler(ContentHandler):
 # --- Main prog
 
 if len(sys.argv) < 2:
-    print "Usage: python xml-parser-jokes.py <document>"
+    print "Usage: python xml-parser-barrapunto.py <document>"
     print
     print " <document>: file name of the document to parse"
     sys.exit(1)
